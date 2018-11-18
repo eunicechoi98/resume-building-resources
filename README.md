@@ -9,6 +9,14 @@ UX Design
 2. http://katiemccurdy.com/resume/
 3. https://uxdesign.cc/how-to-design-your-resumes-3b86ff7d9f76
 4. https://medium.com/@bestfolios/10-amazing-designer-resumes-that-passed-googles-bar-deedb315ec47
+5. https://uxdesign.cc/the-ui-ux-portfolio-13-best-portfolio-practices-fd2e88d5b144
+6. https://careerfoundry.com/en/blog/ux-design/ux-design-portfolio-tips/
+7. https://medium.muz.li/2017-top-10-most-clapped-ux-case-studies-on-muzli-d2c6f25a86b7
+8. https://medium.muz.li/top-10-most-interesting-ux-design-case-studies-to-inspire-your-service-reinvention-in-2018-ea2309e4104b
+9. amazing read on different ux case studies: https://medium.com/bestfolios/6-ux-design-case-studies-done-right-4bec060d719
+10. https://medium.muz.li/top-10-most-interesting-ux-design-case-studies-to-inspire-your-service-reinvention-in-2018-ea2309e4104b
+11. https://uxdesign.cc/designing-an-effective-ui-ux-resume-6ea24d6dd23f
+
 
 tips on UX Design skills description (copied from #1 above) :
 Be descriptive! Good examples:
