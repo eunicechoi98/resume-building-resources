@@ -45,6 +45,11 @@ UX Case Studies
 2. https://uxdesign.cc/tagged/case-study
 3. https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/
 
+Empathy Mapping:
+1. https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it
+2. https://medium.com/swlh/what-is-an-empathy-map-and-why-is-it-valuable-for-your-business-14236be4fdf4
+3. https://theblog.adobe.com/10-tips-develop-better-empathy-maps/
+
 
 Coding Interviews:
 1. https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b
