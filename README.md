@@ -54,3 +54,5 @@ Empathy Mapping:
 Coding Interviews:
 1. https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b
 
+UX Portfolio:
+1. https://uxdesign.cc/the-ui-ux-portfolio-13-best-portfolio-practices-fd2e88d5b144
