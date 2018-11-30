@@ -50,6 +50,8 @@ Empathy Mapping:
 2. https://medium.com/swlh/what-is-an-empathy-map-and-why-is-it-valuable-for-your-business-14236be4fdf4
 3. https://theblog.adobe.com/10-tips-develop-better-empathy-maps/
 
+User Persona:
+1. https://medium.com/@uxconnections/crafting-useful-user-personas-part-1-research-80faff3e9b02
 
 Coding Interviews:
 1. https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b
