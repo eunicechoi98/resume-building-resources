@@ -39,13 +39,21 @@ You are applying for a junior UX designer position, so nobody expects you to hav
 Good example:
 My biggest project so far was my graduation project. For my finals, I designed an e-commerce platform for artisans. I worked with data-driven approach and used real photos that I found on other platforms with user-generated content. I wanted to omit the problem with designing unrealistic UI that can be ruined with unprofessional images taken with a smartphone camera. I did paper prototypes, I designed wireframes in Sketch and created a hi-fidelity prototype in Axure.
 
-An Amazing read on the process of product design:
-1. https://medium.com/xd-studio/our-product-design-process-9329cb3bc403
+Product Design
+1. An Amazing read on the process of product design: https://medium.com/xd-studio/our-product-design-process-9329cb3bc403
+2. https://hackernoon.com/accelerate-your-product-development-process-with-these-6-powerful-steps-841b3db2542f
+
 
 UX Case Studies
 1. https://medium.muz.li/top-10-most-interesting-ux-design-case-studies-to-inspire-your-service-reinvention-in-2018-ea2309e4104b
 2. https://uxdesign.cc/tagged/case-study
 3. https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/
+4. Choosing UX Research Methods: https://blog.prototypr.io/which-ux-research-method-should-you-use-ce695405d1de
+5. https://uxdesign.cc/where-did-all-the-user-research-methodologies-go-fc28fbe036e4
+6. https://theblog.adobe.com/a-comprehensive-guide-to-ux-research-methods/
+7. Another good read on choosing UX Research Methods: https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84
+8. https://www.interaction-design.org/literature/article/7-great-tried-and-tested-ux-research-techniques
+9. Wireframing & Prototyping: https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13
 
 Empathy Mapping:
 1. https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it
