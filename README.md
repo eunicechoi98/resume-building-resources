@@ -39,6 +39,8 @@ You are applying for a junior UX designer position, so nobody expects you to hav
 Good example:
 My biggest project so far was my graduation project. For my finals, I designed an e-commerce platform for artisans. I worked with data-driven approach and used real photos that I found on other platforms with user-generated content. I wanted to omit the problem with designing unrealistic UI that can be ruined with unprofessional images taken with a smartphone camera. I did paper prototypes, I designed wireframes in Sketch and created a hi-fidelity prototype in Axure.
 
+An Amazing read on the process of product design:
+1. https://medium.com/xd-studio/our-product-design-process-9329cb3bc403
 
 UX Case Studies
 1. https://medium.muz.li/top-10-most-interesting-ux-design-case-studies-to-inspire-your-service-reinvention-in-2018-ea2309e4104b
